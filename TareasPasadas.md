@@ -14,5 +14,4 @@ La mayoria de mis errores por lo que noto al recopilarlos, se trata de muchos co
 | Si un nombre requiere un comentario, el nombre no revela su intención	| [En este todos los nombres estan comentarizados.](https://github.com/danaebarba/tareas-pasadas/blob/6ad3aff4677c478eaad59bc76b52738ca54be7b0/tictactoe/Player.java#L54) |
 | Comentarios redundantes. | [Todos los comentarios en este codigo son redundantes.](https://github.com/danaebarba/tareas-pasadas/blob/5f51e62b1af231b22c5107350b44b4dbf66ef7f9/tictactoe/Tictactoe.java#L21) |
 | Comentarios de sección. | [Todos tienen comentarios de seccion](https://github.com/danaebarba/tareas-pasadas/blob/e64aadc8abbcce18295202c2d404c28c0d1ea1f4/ListasYNodos/List.java#L85) |
-| Código comentado, cuando para eso está el control de versiones | link | 
 | Comentarios no mantenidos, con valores que no se actualizarán. | [link](https://github.com/danaebarba/tareas-pasadas/blob/d9a95fa92e0e0b73e24ce1992c1a0038e2f4e65a/reto4.2/Reto4.java#L180) | 
