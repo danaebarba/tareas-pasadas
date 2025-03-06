@@ -3,8 +3,8 @@
 
 | Principio | Error |
 | --- | --- |
-| Elige nombres descriptivos | link |
-| Elige nombres al nivel de abstracción apropiado	| link |
+| Elige nombres descriptivos | [link](https://github.com/danaebarba/tareas-pasadas/blob/6ad3aff4677c478eaad59bc76b52738ca54be7b0/Tema1b.java#L24) |
+| Elige nombres al nivel de abstracción apropiado	|  |
 | Usa nomenclatura estándar donde sea posible	| link |
 | Nombres no ambiguos	| link |
 | Usa nombres largos para ámbitos largos	| link |
@@ -20,5 +20,8 @@
 | Nombres de clases deben ser sustantivos y comenzar en mayúsculas	| link |
 | Nombres de métodos deben ser verbos o una frase con verbo y comenzar en minúsculas	| link |
 | Nombres de métodos de acceso deben anteponer get(is para lógicos) y /set o put	| link |
-| Si un nombre requiere un comentario, el nombre no revela su intención	| link |
+| Si un nombre requiere un comentario, el nombre no revela su intención	| [En este todos los nombres estan comentarizados.](https://github.com/danaebarba/tareas-pasadas/blob/6ad3aff4677c478eaad59bc76b52738ca54be7b0/tictactoe/Player.java#L54) |
 | Nombres de una letra y muy en particular, 'O' y 'l' que se confunden con 0 y 1	| link |
+| Comentarios redundantes. | link |
+| Comentarios de sección. | link |
+| Código comentado, cuando para eso está el control de versiones | link | 
