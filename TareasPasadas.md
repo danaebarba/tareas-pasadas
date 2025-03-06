@@ -25,4 +25,4 @@
 | Comentarios redundantes. | [Todos los comentarios en este codigo son redundantes.](https://github.com/danaebarba/tareas-pasadas/blob/5f51e62b1af231b22c5107350b44b4dbf66ef7f9/tictactoe/Tictactoe.java#L21) |
 | Comentarios de sección. | link |
 | Código comentado, cuando para eso está el control de versiones | link | 
-| Comentarios no mantenidos, con valores que no se actualizarán. | [Link] (https://github.com/danaebarba/tareas-pasadas/blob/d9a95fa92e0e0b73e24ce1992c1a0038e2f4e65a/reto4.2/Reto4.java#L180) | 
+| Comentarios no mantenidos, con valores que no se actualizarán. | [link](https://github.com/danaebarba/tareas-pasadas/blob/d9a95fa92e0e0b73e24ce1992c1a0038e2f4e65a/reto4.2/Reto4.java#L180) | 
